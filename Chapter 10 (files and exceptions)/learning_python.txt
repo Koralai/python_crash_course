@@ -1,0 +1,4 @@
+In Python you can crunch numbers.
+In Python you can work with user inputs.
+In Python you can store your code in modules.
+In Python you can give your code structure using classes.
